@@ -61,7 +61,7 @@ public class App {
                     break;
                 case 3:
                     System.out.println("Fetching your bookings");
-                    userBookingService.fetchBooking();
+                    userBookingService.fetchBookings();
                     break;
                 case 4:
                     System.out.println("Type your source station");
